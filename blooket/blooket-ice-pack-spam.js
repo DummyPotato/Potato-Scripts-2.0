@@ -5,4 +5,138 @@ I created a script that manually grinds the pack for you,
 and even adds daily rewards.
 */
 
-function _0x445d(_0x299a22,_0x5e6bff){const _0xc6c87c=_0xc6c8();return _0x445d=function(_0x445d33,_0x3edaa5){_0x445d33=_0x445d33-0x1b4;let _0x464985=_0xc6c87c[_0x445d33];return _0x464985;},_0x445d(_0x299a22,_0x5e6bff);}const _0x3d9379=_0x445d;(function(_0x4b6e03,_0x285444){const _0x318bc5=_0x445d,_0x31d4a3=_0x4b6e03();while(!![]){try{const _0x3017b7=parseInt(_0x318bc5(0x1e1))/0x1+-parseInt(_0x318bc5(0x1e7))/0x2+parseInt(_0x318bc5(0x1fe))/0x3*(-parseInt(_0x318bc5(0x1d0))/0x4)+-parseInt(_0x318bc5(0x1e8))/0x5+-parseInt(_0x318bc5(0x1df))/0x6+parseInt(_0x318bc5(0x1b4))/0x7+parseInt(_0x318bc5(0x1c8))/0x8*(parseInt(_0x318bc5(0x1f2))/0x9);if(_0x3017b7===_0x285444)break;else _0x31d4a3['push'](_0x31d4a3['shift']());}catch(_0x41cf23){_0x31d4a3['push'](_0x31d4a3['shift']());}}}(_0xc6c8,0x28117),((async()=>{const _0x4fb7e7=_0x445d;let _0x4daab5=document[_0x4fb7e7(0x1f8)]('iframe');document[_0x4fb7e7(0x1b7)][_0x4fb7e7(0x1cf)](_0x4daab5),window[_0x4fb7e7(0x1ed)]=_0x4daab5[_0x4fb7e7(0x1e6)][_0x4fb7e7(0x1ed)][_0x4fb7e7(0x1ce)](window),window[_0x4fb7e7(0x1cb)]=_0x4daab5[_0x4fb7e7(0x1e6)][_0x4fb7e7(0x1cb)][_0x4fb7e7(0x1ce)](window),window[_0x4fb7e7(0x1c2)]=_0x4daab5['contentWindow'][_0x4fb7e7(0x1c2)]['bind'](window),_0x4daab5[_0x4fb7e7(0x1f1)]();var _0xa2f336=()=>new Promise((_0x416277,_0x44fb84)=>{const _0x41d8ac=_0x4fb7e7;try{let _0x696e37=window[_0x41d8ac(0x1d8)][_0x41d8ac(0x1f5)](_0x23856d=>Object[_0x41d8ac(0x1dc)](_0x23856d[0x1])[_0x41d8ac(0x1f5)](_0x498ddf=>_0x23856d[0x1][_0x498ddf]))[_0x41d8ac(0x1e9)]((_0x9f6b61,_0x5454d8)=>[..._0x9f6b61,..._0x5454d8],[])[_0x41d8ac(0x1bc)](_0x52c021=>/\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/['test'](_0x52c021[_0x41d8ac(0x1be)]())&&/\(new TextEncoder\)\.encode\(\"(.+?)\"\)/[_0x41d8ac(0x1fc)](_0x52c021[_0x41d8ac(0x1be)]()))[_0x41d8ac(0x1be)]();_0x416277({'blooketBuild':_0x696e37[_0x41d8ac(0x1c4)](/\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/)[0x0],'secret':_0x696e37[_0x41d8ac(0x1c4)](/\(new TextEncoder\)\.encode\(\"(.+?)\"\)/)[0x1]});}catch{_0x44fb84(_0x41d8ac(0x1d3));}}),_0x7e9006=async(_0x347155,_0x363f97)=>{const _0x5e4a8a=_0x4fb7e7;let _0x25d5c3=window[_0x5e4a8a(0x1f3)][_0x5e4a8a(0x1de)](new Uint8Array(0xc));return window[_0x5e4a8a(0x1dd)](Array[_0x5e4a8a(0x1ef)](_0x25d5c3)['map'](_0x29f848=>String[_0x5e4a8a(0x1fa)](_0x29f848))['join']('')+Array['from'](new Uint8Array(await window['crypto']['subtle'][_0x5e4a8a(0x1ee)]({'name':_0x5e4a8a(0x200),'iv':_0x25d5c3},await window[_0x5e4a8a(0x1f3)]['subtle'][_0x5e4a8a(0x1d1)]('raw',await window[_0x5e4a8a(0x1f3)][_0x5e4a8a(0x1f9)][_0x5e4a8a(0x1d7)]('SHA-256',new TextEncoder()['encode'](_0x363f97)),{'name':_0x5e4a8a(0x200)},!0x1,[_0x5e4a8a(0x1ee)]),new TextEncoder()[_0x5e4a8a(0x1f7)](JSON[_0x5e4a8a(0x1eb)](_0x347155)))))[_0x5e4a8a(0x1f5)](_0x3a1566=>String[_0x5e4a8a(0x1fa)](_0x3a1566))['join'](''));};fetch(_0x4fb7e7(0x1ea),{'credentials':_0x4fb7e7(0x1da)})[_0x4fb7e7(0x1bb)](_0x2a74df=>_0x2a74df[_0x4fb7e7(0x1c7)]())[_0x4fb7e7(0x1bb)](_0x3e3251=>{const _0x2435cc=_0x4fb7e7;_0xa2f336()[_0x2435cc(0x1bb)](async _0x51ce6c=>{const _0x5d1a35=_0x2435cc;fetch(_0x5d1a35(0x1f0),{'method':_0x5d1a35(0x1b8),'credentials':_0x5d1a35(0x1da),'headers':{'content-type':_0x5d1a35(0x1e0),'X-Blooket-Build':_0x51ce6c[_0x5d1a35(0x1c6)]},'body':await _0x7e9006({'name':_0x3e3251[_0x5d1a35(0x1e2)],'addedTokens':0x1f4,'addedXp':0x12c},_0x51ce6c['secret'])}),fetch(_0x5d1a35(0x1f0),{'method':_0x5d1a35(0x1b8),'credentials':_0x5d1a35(0x1da),'headers':{'content-type':_0x5d1a35(0x1e0),'X-Blooket-Build':_0x51ce6c[_0x5d1a35(0x1c6)]},'body':await _0x7e9006({'name':_0x3e3251[_0x5d1a35(0x1e2)],'addedTokens':0x1f4,'addedXp':0x12c},_0x51ce6c[_0x5d1a35(0x1fd)])})[_0x5d1a35(0x1bb)](()=>console['log'](_0x5d1a35(0x1ff)))['catch'](()=>alert(_0x5d1a35(0x1bf)));;})['catch'](()=>alert(_0x2435cc(0x1f4)));})[_0x4fb7e7(0x1d9)](()=>alert(_0x4fb7e7(0x1b5)));})()));function createFooter(){const _0x10365c=_0x445d;let _0x495fa6=document[_0x10365c(0x1f8)](_0x10365c(0x1c1));_0x495fa6[_0x10365c(0x1cc)]=_0x10365c(0x1fb),_0x495fa6[_0x10365c(0x1e5)]=_0x10365c(0x1d2),document[_0x10365c(0x1b7)]['appendChild'](_0x495fa6);var _0x285f1c=0x0,_0x21c44d=0x0,_0x265dd8=0x0,_0xae6c70=0x0;_0x495fa6[_0x10365c(0x1d6)]=(_0x1ab98f=window[_0x10365c(0x1b6)])=>{const _0x55083e=_0x10365c;_0x1ab98f['preventDefault'](),_0x265dd8=_0x1ab98f['clientX'],_0xae6c70=_0x1ab98f['clientY'],document[_0x55083e(0x1c5)]=()=>{const _0x3a421d=_0x55083e;document['onmouseup']=null,document[_0x3a421d(0x1ca)]=null;},document['onmousemove']=_0x2f9db2=>{const _0x4a23c2=_0x55083e;_0x2f9db2=_0x2f9db2||window['event'],_0x2f9db2[_0x4a23c2(0x1ec)](),_0x285f1c=_0x265dd8-_0x2f9db2[_0x4a23c2(0x1c9)],_0x21c44d=_0xae6c70-_0x2f9db2[_0x4a23c2(0x1b9)],_0x265dd8=_0x2f9db2[_0x4a23c2(0x1c9)],_0xae6c70=_0x2f9db2[_0x4a23c2(0x1b9)];let _0x14136d=_0x495fa6[_0x4a23c2(0x1f6)]-_0x21c44d>0x0?_0x495fa6[_0x4a23c2(0x1f6)]-_0x21c44d:0x0,_0x85b176=_0x495fa6['offsetLeft']-_0x285f1c>0x0?_0x495fa6[_0x4a23c2(0x1cd)]-_0x285f1c:0x0;_0x495fa6[_0x4a23c2(0x1cc)]['top']=_0x14136d+'px',_0x495fa6[_0x4a23c2(0x1cc)][_0x4a23c2(0x1d4)]=_0x85b176+'px';};};};createFooter();var secondTime=![];function openBox(){const _0x19b356=_0x445d,_0x2928c7=document[_0x19b356(0x1ba)](_0x19b356(0x1e4));for(let _0x26b507=0x0;_0x26b507<_0x2928c7[_0x19b356(0x1e3)];_0x26b507++){_0x2928c7[_0x26b507][_0x19b356(0x1db)]();}setTimeout(doPress,0x2ee);}function doPress(){const _0x760c33=_0x445d,_0x4cb589=document['getElementsByClassName'](_0x760c33(0x1bd));for(let _0x291f46=0x0;_0x291f46<_0x4cb589[_0x760c33(0x1e3)];_0x291f46++){_0x4cb589[_0x291f46]['click']();}secondTime==![]?(secondTime=!![],setTimeout(doPress,0x5dc)):setTimeout(openBox,0x1f4);}console[_0x3d9379(0x1c3)]('MADE\x20BY\x20DUMMYPOTATO,\x20DO\x20NOT\x20TAKE\x20CREDIT\x20FOR\x20MY\x20WORK');var ask=confirm('This\x20script\x20adds\x20daily\x20rewards\x20and\x20opens\x20Ice\x20Boxes\x20manually\x20for\x20you,\x20continue?\x20\x0a\x20\x0a\x20MUST\x20HAVE\x20INSTANT\x20OPEN\x20ON');function _0xc6c8(){const _0x3ea2a1=['toString','There\x20was\x20an\x20error\x20when\x20adding\x20rewards!','log','div','confirm','warn','match','onmouseup','blooketBuild','json','915128ejECeM','clientX','onmousemove','prompt','style','offsetLeft','bind','append','100LORYdS','importKey','<p>Made\x20by\x20DummyPotato,\x20v1.0</p>','Could\x20not\x20fetch\x20auth\x20details','left','Canceled\x20task.','onmousedown','digest','webpackJsonp','catch','include','click','keys','btoa','getRandomValues','1154766vSmlhG','application/json','324783NHPuOe','name','length','styles__packContainer___3RwSU-camelCase','innerHTML','contentWindow','539442Qiivxf','106915rIhxip','reduce','https://api.blooket.com/api/users','stringify','preventDefault','alert','encrypt','from','https://api.blooket.com/api/users/add-rewards','remove','18ukQwhd','crypto','There\x20was\x20an\x20error\x20encoding\x20requests!','map','offsetTop','encode','createElement','subtle','fromCharCode','font-family:\x20\x22Nunito\x22,\x20sans-serif;\x20font-size:\x2014px;\x20height:\x2065px;\x20width:\x20175px;\x20border:\x204px\x20solid\x20rgb(168,\x20135,\x2050);\x20background:\x20rgb(242,\x20231,\x20133);\x20position:\x20absolute;\x20top:\x2020x;\x20left:\x2020px;\x20border-radius:\x2010px;\x20color:\x20rgb(0,\x200,\x200);\x20text-align:\x20center;','test','secret','12411WiQogx','Added\x20daily\x20rewards!','AES-GCM','1382808MgSIsZ','There\x20was\x20an\x20error\x20getting\x20username!','event','body','put','clientY','getElementsByClassName','then','find','styles__openPackContainer___2m4Yf-camelCase'];_0xc6c8=function(){return _0x3ea2a1;};return _0xc6c8();}ask==!![]?(console[_0x3d9379(0x1c0)]('Starting\x20task...'),alert('The\x20script\x20is\x20a\x20bit\x20funky,\x20but\x20it\x20does\x20the\x20job\x20of\x20manually\x20openinng\x20Ice\x20pack\x20for\x20you.'),openBox()):console[_0x3d9379(0x1c0)](_0x3d9379(0x1d5));
+(async () => {
+    let n = document.createElement('iframe');
+    document.body.append(n);
+    window.alert = n.contentWindow.alert.bind(window);
+    window.prompt = n.contentWindow.prompt.bind(window);
+    window.confirm = n.contentWindow.confirm.bind(window);
+    n.remove();
+
+    var getValues = () => new Promise((e, t) => {
+        try {
+            let n = window.webpackJsonp.map(e => Object.keys(e[1]).map(t => e[1][t])).reduce((e, t) => [...e, ...t], []).find(e => /\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/.test(e.toString()) && /\(new TextEncoder\)\.encode\(\"(.+?)\"\)/.test(e.toString())).toString();
+            e({
+                blooketBuild: n.match(/\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/)[0],
+                secret: n.match(/\(new TextEncoder\)\.encode\(\"(.+?)\"\)/)[1]
+            })
+        } catch {
+            t("Could not fetch auth details")
+        }
+    })
+    var encodeValues = async (e, t) => {
+        let d = window.crypto.getRandomValues(new Uint8Array(12));
+        return window.btoa(Array.from(d).map(e => String.fromCharCode(e)).join("") + Array.from(new Uint8Array(await window.crypto.subtle.encrypt({
+            name: "AES-GCM",
+            iv: d
+        }, await window.crypto.subtle.importKey("raw", await window.crypto.subtle.digest("SHA-256", (new TextEncoder).encode(t)), {
+            name: "AES-GCM"
+        }, !1, ["encrypt"]), (new TextEncoder).encode(JSON.stringify(e))))).map(e => String.fromCharCode(e)).join(""))
+    };
+            fetch("https://api.blooket.com/api/users", { credentials: "include" }).then(x => x.json()).then(x => {
+                getValues().then(async e => {
+                    fetch("https://api.blooket.com/api/users/add-rewards", {
+                        method: "put",
+                        credentials: "include",
+                        headers: {
+                            "content-type": "application/json",
+                            "X-Blooket-Build": e.blooketBuild
+                        },
+                        body: await encodeValues({
+                            name: x.name,
+                            addedTokens: 500,
+                            addedXp: 300
+                        }, e.secret)
+                    });
+                    fetch("https://api.blooket.com/api/users/add-rewards", {
+                        method: "put",
+                        credentials: "include",
+                        headers: {
+                            "content-type": "application/json",
+                            "X-Blooket-Build": e.blooketBuild
+                        },
+                        body: await encodeValues({
+                            name: x.name,
+                            addedTokens: 500,
+                            addedXp: 300
+                        }, e.secret)
+                    }).then(() => console.log('Added daily rewards!')).catch(() => alert('There was an error when adding rewards!'));;
+                }).catch(() => alert('There was an error encoding requests!'));
+            }).catch(() => alert('There was an error getting username!'));
+})();
+
+function createFooter() {
+    let element = document.createElement('div');
+
+    element.style = `font-family: "Nunito", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(168, 135, 50); background: rgb(242, 231, 133); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
+    element.innerHTML = `<p>Made by DummyPotato, v1.0</p>`;
+    document.body.appendChild(element);
+
+    var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    element.onmousedown = ((e = window.event) => {
+        e.preventDefault();
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        document.onmouseup = (() => {
+            document.onmouseup = null;
+            document.onmousemove = null;
+        });
+        document.onmousemove = ((e) => {
+            e = e || window.event;
+            e.preventDefault();
+            pos1 = pos3 - e.clientX;
+            pos2 = pos4 - e.clientY;
+            pos3 = e.clientX;
+            pos4 = e.clientY;
+            let top = (element.offsetTop - pos2) > 0 ? (element.offsetTop - pos2) : 0;
+            let left = (element.offsetLeft - pos1) > 0 ? (element.offsetLeft - pos1) : 0;
+            element.style.top = top + "px";
+            element.style.left = left + "px";
+        });
+    });
+};
+
+createFooter();
+
+var secondTime = false;
+
+
+function openBox() {
+const box = document.getElementsByClassName('styles__packContainer___3RwSU-camelCase');
+
+for (let i = 0; i < box.length; i++) {
+  box[i].click();
+}
+setTimeout(doPress, 750);
+}
+
+function doPress() {
+const press = document.getElementsByClassName('styles__openPackContainer___2m4Yf-camelCase');
+
+for (let i = 0; i < press.length; i++) {
+  press[i].click();
+}
+if (secondTime == false) {
+secondTime = true;
+setTimeout(doPress, 1500);
+}
+else {
+setTimeout(openBox, 500);
+}
+}
+
+
+console.warn('MADE BY DUMMYPOTATO, DO NOT TAKE CREDIT FOR MY WORK');
+var ask = confirm('This script adds daily rewards and opens Ice Boxes manually for you, continue? \n \n MUST HAVE INSTANT OPEN ON');
+if(ask == true) {
+console.log('Starting task...');
+alert('The script is a bit funky, but it does the job of manually openinng Ice pack for you.');
+openBox();
+}
+else {
+console.log('Canceled task.');
+}
+
+
+
+
