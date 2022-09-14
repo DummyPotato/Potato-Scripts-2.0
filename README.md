@@ -1,4 +1,4 @@
-# Potato-Scripts-2.0
+# Potato Scripts 2.0
 
 Lots of hacks/cheats that break multiple games like Blooket to make it more fun and easier to play!
 
