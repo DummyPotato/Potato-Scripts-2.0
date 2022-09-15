@@ -3,7 +3,10 @@
 Lots of hacks/cheats that break multiple games like Blooket to make it more fun and easier to play!
 If you would like to see something or report a bug open an issue. Please describe with detail.
 
-By the way, all my scripts are encoded to make it harder to steal/copy
+*By the way, all my scripts are encoded to make it harder to steal/copy*
+
+
+**IF YOU ARE PASTING THE CODE INTO THE CONSOLE, REMOVE THE JAVASCRIPT BEFORE IT**
 
 --------------------------------------------------------------------------------------------------
 
